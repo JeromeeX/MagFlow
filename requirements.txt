@@ -1,0 +1,7 @@
+pandas
+numpy
+plotly
+scipy
+shapely
+chardet
+jupyter
